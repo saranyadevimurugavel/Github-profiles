@@ -3,7 +3,7 @@
 A simple and responsive web application that allows users to search for any GitHub profile and view their details instantly using the GitHub API.
 
 🌐 Live Demo
-👉 
+👉  https://saranyadevimurugavel.github.io/Github-profiles/
 
 📌 Project Overview
 
