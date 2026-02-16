@@ -2,6 +2,9 @@
 
 A simple and responsive web application that allows users to search for any GitHub profile and view their details instantly using the GitHub API.
 
+🌐 Live Demo
+👉 
+
 📌 Project Overview
 
 This project fetches real-time data from the GitHub API and displays user profile information such as:
